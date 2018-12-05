@@ -1,4 +1,24 @@
 {
-	"author": "Jane Doe",
-	"version": "nic nie czaję"
+  "name": "autor",
+  "version": "1.0.0",
+  "description": "intresting and curiuos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamamenszu/autor.git"
+  },
+  "keywords": [
+    "freecodecamp",
+    "value",
+    "head"
+  ],
+  "author": "Kamila Menes-Szuster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamamenszu/autor/issues"
+  },
+  "homepage": "https://github.com/kamamenszu/autor#readme"
 }
