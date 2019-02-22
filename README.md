@@ -23,7 +23,10 @@ To start only one test case, specify a scenario by using tag @scenario and open 
 
 `npm run scenario`
 
-**NOTE:** Please look at animation to see how run particular scenario: ![Run_particular_Scenerio](/film.readme/scenario.gif)
+**NOTE:** Please look at animation to see how run only one test case: ![Run_particular_Scenerio](/film.readme/scenario.gif)
+
+### Test Data
+To check all data used in case tests please look at ./data/test-config.ts
 
 ### Technologies
 * cucumber - version 5.0.3
