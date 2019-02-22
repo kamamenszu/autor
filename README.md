@@ -26,10 +26,11 @@ To start only one test case, specify a scenario by using tag @scenario and open 
 **NOTE:** Please look at animation to see how run particular scenario:
 
 ## Technologies
-* cucumber - version 5.1.0
-* typescript - version 2.7.2
-* protractor - version 5.4.2
-* chai - version 4.2.0
+* cucumber - version 5.0.3
+* typescript - version 3.0.1
+* protractor - version 5.4.0
+* chai - version 4.1.2
+* ts-node - version 7.0.1
 
 ## Status
 Project is: _in progress_.
